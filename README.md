@@ -6,7 +6,7 @@ I choose to analyse Los Angeles Crime rate between 2012 - 2016. This is interest
 
 Overview
 =============
-We used an open dataset approved and upload by LAPD.([link here](https://data.lacity.org/browse?category=A+Safe+City&q=crime&sortBy=relevance&utf8=%E2%9C%93) 
+We used an open dataset approved and upload by LAPD.([link here])(https://data.lacity.org/browse?category=A+Safe+City&q=crime&sortBy=relevance&utf8=%E2%9C%93) 
 
 An interesting inference can be derived by end of this project. 
 
