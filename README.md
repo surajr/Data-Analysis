@@ -2,7 +2,7 @@
 
 The purpose of this project is to get familiar with Data Analysis using python pandas, numpy and matplot libraries. 
 
-I choose to analyse Los Angeles Crime rate between 2012 - 2016. This is interesting because I live and study here!
+I choose to analyse Los Angeles Crime rate between 2012 - 2016 because I live and study here!
 
 Overview
 =============
